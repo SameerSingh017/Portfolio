@@ -47,13 +47,15 @@ portfolio/
 └── README.md         # Project documentation
 
 
+
+---
+
 ## 🖥️ Local Setup
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/yourusername/calculator.git
+   cd TicTacToe
 
-Clone or download this repository:
-''' bash
-git clone https://github.com/SameerSingh017/TicTacToe.git
-
-cd TicTacToe
 
 Or 
 
