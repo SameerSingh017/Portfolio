@@ -62,5 +62,6 @@ Or
 open index.html directly in your browser.
 
 
-## 👨‍💻 Author: Sameer Singh
-## 📧 Contact: sameer0555singh@gmail.com
+## 📮 Contact 
+### 👨‍💻 Author: Sameer Singh
+### 📧 Email: sameer0555singh@gmail.com
