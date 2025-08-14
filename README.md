@@ -50,7 +50,7 @@ portfolio/
 ## 🖥️ Local Setup
 
 Clone or download this repository:
-
+''' bash
 git clone https://github.com/SameerSingh017/TicTacToe.git
 
 cd TicTacToe
