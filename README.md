@@ -53,8 +53,8 @@ portfolio/
 ## 🖥️ Local Setup
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/yourusername/calculator.git
-   cd TicTacToe
+   git clone https://github.com/SameerSingh017/CodSoft_1_portfolio.git
+   cd portfolio
 
 
 Or 
