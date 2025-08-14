@@ -59,7 +59,7 @@ portfolio/
 
 Or 
 
-open index.html directly in your browser (audio may be restricted without a server).
+open index.html directly in your browser.
 
 
 ## 👨‍💻 Author: Sameer Singh
