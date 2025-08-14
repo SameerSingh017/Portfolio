@@ -33,11 +33,17 @@ It is built using **HTML, CSS, and JavaScript** to provide a responsive and user
 
 ## 📂 Project Structure
 portfolio/
+
 │
+
 ├── index.html        # Main HTML file
+
 ├── styles.css        # Styling
+
 ├── script.js         # JavaScript (if needed)
+
 ├── images/           # Images and icons and documents
+
 └── README.md         # Project documentation
 
 
@@ -46,9 +52,13 @@ portfolio/
 Clone or download this repository:
 
 git clone https://github.com/SameerSingh017/TicTacToe.git
+
 cd TicTacToe
 
-Or open index.html directly in your browser (audio may be restricted without a server).
+Or 
+
+open index.html directly in your browser (audio may be restricted without a server).
+
 
 ## 👨‍💻 Author: Sameer Singh
 ## 📧 Contact: sameer0555singh@gmail.com
