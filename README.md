@@ -4,7 +4,7 @@ This is my personal portfolio website showcasing my skills, projects, and experi
 It is built using **HTML, CSS, and JavaScript** to provide a responsive and user-friendly interface.
 
 ## 🚀 View Page
-[View Portfolio](https://sameersinghportfolio.netlify.app) 
+[View Portfolio](https://knowaboutss.netlify.app) 
 
 ---
 
@@ -53,7 +53,7 @@ portfolio/
 ## 🖥️ Local Setup
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/SameerSingh017/CodSoft_1_portfolio.git
+   git clone https://github.com/SameerSingh017/Portfolio.git
    cd portfolio
 
 
